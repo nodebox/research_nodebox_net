@@ -19,7 +19,7 @@ be a string, 'animal'. It can be many different things."</span></em></p>
 
 <p><br /></p>
 
-<p><img src="http://nodebox.net/code/data/media/robot1.jpg" /></p>
+<p><img src="http://nodebox.net/code/static/media/robot1.jpg" /></p>
 
 <p><br /></p>
 

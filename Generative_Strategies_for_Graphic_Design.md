@@ -31,7 +31,7 @@ Until terminating condition
 
 <p><br /></p>
 
-<p><a href="http://nodebox.net/code/index.php/Evolution"><img src="http://nodebox.net/code/data/media/evolution-arena2.jpg" /></a></p>
+<p><a href="http://nodebox.net/code/index.php/Evolution"><img src="http://nodebox.net/code/static/media/evolution-arena2.jpg" /></a></p>
 
 <p><br /></p>
 

@@ -7,7 +7,7 @@ layout: page
 
 <p><br /></p>
 
-<p><img src="http://nodebox.net/code/data/media/google-prism0.jpg" /></p>
+<p><img src="http://nodebox.net/code/static/media/google-prism0.jpg" /></p>
 
 <p><br /></p>
 

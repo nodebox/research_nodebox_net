@@ -7,7 +7,7 @@ layout: page
 
 <p>NodeBox doesn't work with menus and buttons, click and drag, but with (simple) programming commands. The advantage is that you are dealing with language: concepts can easily be translated visually this way. And you have total freedom of what you do and how you do it. NodeBox can render images and vectors, call databases, transform type, surf Google, draw a million of circles within seconds, and so on.</p>
 
-<p><img src="http://nodebox.net/code/data/media/features-example.jpg" /></p>
+<p><img src="http://nodebox.net/code/static/media/features-example.jpg" /></p>
 
 <hr />
 
